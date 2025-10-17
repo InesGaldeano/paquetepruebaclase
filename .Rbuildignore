@@ -1,2 +1,4 @@
 ^paquetepruebaclase\.Rproj$
 ^\.Rproj\.user$
+^data_raw$
+^data-raw$
